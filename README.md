@@ -14,7 +14,7 @@
 
 - 🎓 Studying **BSc. Information Systems** at the University of Colombo School of Computing (UCSC).
 - ☁️ Passionate about bridging business operations with technical infrastructure, specifically focusing on multi-cloud environments and systems optimization.
-- 💻 Built a **Recruitment Management System** as part of my 1st-year Internet and Web Technologies (IWT) coursework.
+- 💻 Developed a **Recruitment Management System** as part of my 1st-year Internet and Web Technologies (IWT) coursework.
 - 📍 Based in Colombo, Sri Lanka.
 
 ---
@@ -46,8 +46,10 @@
 
 ### 🏗️ Featured Project
 
-- **[Recruitment Management System](https://github.com/Recruitment-Management-System-IS1207)**
-  Developed a web-based system as part of the Internet and Web Technologies module during my first year at UCSC. Streamlined the recruitment workflow for candidate management.
+- **[Recruitment Management System (IWT Module)](https://github.com/Recruitment-Management-System-IS1207/Client-fe)**
+  *Collaborative 1st-year project (Team of 4).* Developed a web-based system to digitize and streamline candidate recruitment workflows. 
+  - **Technologies used:** HTML, CSS, JavaScript (Web fundamentals)
+  - **Repository:** Public front-end application workspace
 
 ---
 
@@ -64,10 +66,10 @@
 ### 📫 Let's Connect
 
 <div align="left">
-  <a href="[www.linkedin.com/in/hemaka-wanshanath-94347537a]">
-    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  <a href="https://www.linkedin.com/in/hemaka-wanshanath-94347537a" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="mailto:[hemakaw.se@gmail.com]">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  <a href="mailto:hemakaw.se@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email" />
   </a>
 </div>
