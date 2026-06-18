@@ -46,11 +46,10 @@
 
 ### 🏗️ Featured Project
 
-- **[Recruitment Management System (IWT Module)](https://github.com/Recruitment-Management-System-IS1207/Client-fe)**
-  *Collaborative 1st-year project (Team of 4).* Developed a web-based system to digitize and streamline candidate recruitment workflows. 
-  - **Technologies used:** HTML, CSS, JavaScript (Web fundamentals)
-  - **Repository:** Public front-end application workspace
-
+- **[Recruitment Management System ](https://github.com/Recruitment-Management-System-IS1207/Client-fe)**
+  Collaborative 1st-year project. Developed a web-based system to digitize and streamline candidate recruitment workflows. 
+  - **Technologies used:** HTML, CSS, JavaScript, PHP 
+    
 ---
 
 ### 📜 Licenses & Certifications
