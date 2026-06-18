@@ -64,10 +64,10 @@
 ### 📫 Let's Connect
 
 <div align="left">
-  <a href="[Insert LinkedIn URL Here]">
+  <a href="[www.linkedin.com/in/hemaka-wanshanath-94347537a]">
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="mailto:[Insert Professional Email Here]">
+  <a href="mailto:[hemakaw.se@gmail.com]">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
 </div>
