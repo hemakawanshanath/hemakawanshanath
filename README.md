@@ -14,7 +14,7 @@
 
 - 🎓 Studying **BSc. Information Systems** at the University of Colombo School of Computing (UCSC).
 - ☁️ Passionate about bridging business operations with technical infrastructure, specifically focusing on multi-cloud environments and systems optimization.
-- 💼 Experienced in technical project management, having served as the **Risk and Scheduling Lead** for a live transit tracking solution.
+- 💻 Built a **Recruitment Management System** as part of my 1st-year Internet and Web Technologies (IWT) coursework.
 - 📍 Based in Colombo, Sri Lanka.
 
 ---
@@ -45,6 +45,9 @@
 ---
 
 ### 🏗️ Featured Project
+
+- **[Recruitment Management System](https://github.com/Recruitment-Management-System-IS1207)**
+  Developed a web-based system as part of the Internet and Web Technologies module during my first year at UCSC. Streamlined the recruitment workflow for candidate management.
 
 ---
 
